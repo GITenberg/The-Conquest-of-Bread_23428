@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1453
     wikipedia: http://en.wikipedia.org/wiki/Peter_Kropotkin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23428#The-Conquest-of-Bread
 gutenberg_bookshelf: Anarchism
 gutenberg_issued: '2007-11-09'
 gutenberg_type: Text
